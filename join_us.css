@@ -1,0 +1,43 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+html{background-color:lightblue;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+}
+
+header {
+  padding: 3px;
+  display: block;
+  width: 790px;
+  font-size: 20
+}
+h2 {
+    color: white;
+}
+li {
+  background-color:lightblue;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: white;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
